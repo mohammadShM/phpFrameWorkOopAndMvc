@@ -6,9 +6,9 @@ use App\Config;
 use Illuminate\Database\Capsule\Manager as Capsule;
 
 $capsule = new Capsule();
-
 $capsule->addConnection([
     'driver' => 'mysql',
+    // 'host' => $_ENV['DB_HOST'] , // sample set by env
     'host' => Config::DB_HOST,
     'port' => Config::DB_PORT,
     'database' => Config::DB_DATABASE,
@@ -17,5 +17,4 @@ $capsule->addConnection([
     'charset' => 'utf8',
     'collation' => 'utf8_unicode_ci',
 ]);
-
 $capsule->bootEloquent();

@@ -45,6 +45,7 @@ class ComposerStaticInite2e2b26668b109fd6f4fda89b0717e46
         array (
             'Psr\\SimpleCache\\' => 16,
             'Psr\\Container\\' => 14,
+            'PhpOption\\' => 10,
         ),
         'J' => 
         array (
@@ -62,8 +63,13 @@ class ComposerStaticInite2e2b26668b109fd6f4fda89b0717e46
             'Illuminate\\Container\\' => 21,
             'Illuminate\\Bus\\' => 15,
         ),
+        'G' => 
+        array (
+            'GrahamCampbell\\ResultType\\' => 26,
+        ),
         'D' => 
         array (
+            'Dotenv\\' => 7,
             'Doctrine\\Inflector\\' => 19,
         ),
         'C' => 
@@ -138,6 +144,10 @@ class ComposerStaticInite2e2b26668b109fd6f4fda89b0717e46
         array (
             0 => __DIR__ . '/..' . '/psr/container/src',
         ),
+        'PhpOption\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/phpoption/phpoption/src/PhpOption',
+        ),
         'Jenssegers\\Blade\\' => 
         array (
             0 => __DIR__ . '/..' . '/jenssegers/blade/src',
@@ -179,6 +189,14 @@ class ComposerStaticInite2e2b26668b109fd6f4fda89b0717e46
         'Illuminate\\Bus\\' => 
         array (
             0 => __DIR__ . '/..' . '/illuminate/bus',
+        ),
+        'GrahamCampbell\\ResultType\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/graham-campbell/result-type/src',
+        ),
+        'Dotenv\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/vlucas/phpdotenv/src',
         ),
         'Doctrine\\Inflector\\' => 
         array (

@@ -2,7 +2,8 @@
   "require": {
     "jenssegers/blade": "^1.4",
     "ext-pdo": "*",
-    "illuminate/database": "8.83"
+    "illuminate/database": "8.83",
+    "vlucas/phpdotenv": "^5.4"
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest"
