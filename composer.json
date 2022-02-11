@@ -1,6 +1,8 @@
 {
   "require": {
-    "jenssegers/blade": "^1.4"
+    "jenssegers/blade": "^1.4",
+    "ext-pdo": "*",
+    "illuminate/database": "8.83"
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest"

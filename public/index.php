@@ -4,6 +4,7 @@
 use Core\Router;
 
 require_once "../vendor/autoload.php";
+require_once "../Core/Database.php";
 // for custom handler exception and error
 error_reporting(E_ALL);
 set_error_handler('Core\Error::errorHandler');

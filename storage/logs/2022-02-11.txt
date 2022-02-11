@@ -58,3 +58,18 @@
 #################################################################################
 =================================================================================
 
+[11-Feb-2022 17:16:29 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' articles table not exists '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Model.php(22): Core\Model->checkTabe()
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\HomeController.php(21): Core\Model->__construct()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(76): App\Controllers\HomeController->index()
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('')
+#4 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Model.php '</strong> on line 55</p>
+#################################################################################
+=================================================================================
+

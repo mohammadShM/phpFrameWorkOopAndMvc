@@ -5,12 +5,13 @@
 
 namespace Core;
 
+use App\Config;
 use ErrorException;
 
 class Error
 {
 
-    public static bool $ERROR_LOG_BOOLEAN = false;
+    public static bool $ERROR_LOG_BOOLEAN = Config::SHOW_DEBUG;
 
     /**
      * @throws ErrorException
