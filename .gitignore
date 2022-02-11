@@ -1,4 +1,4 @@
 readmePrivate.txt
-/.idea
-/vendor
-/storage
+#/.idea
+#/vendor
+#/storage
