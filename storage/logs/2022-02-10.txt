@@ -1,0 +1,1610 @@
+[10-Feb-2022 17:57:05 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 82</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 20:12:19 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 20:52:38 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 20:52:38 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 20:53:50 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 20:53:50 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 20:53:51 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 20:53:51 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 20:54:45 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 20:54:45 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 20:56:05 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 20:56:05 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 20:59:27 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 20:59:27 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:01:13 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:01:13 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:01:14 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:01:14 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:01:14 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:01:14 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:01:15 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:01:15 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:01:15 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:01:15 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:01:37 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:01:37 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:01:56 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:01:56 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:01:57 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:01:57 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:01:57 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:01:57 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:01:58 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:01:58 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:01:58 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:01:58 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:01:59 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:01:59 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:01:59 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:01:59 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:02:27 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:02:27 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:02:28 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:02:28 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:02:29 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:02:29 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:02:30 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:02:30 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:02:30 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:02:30 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:02:30 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:02:30 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:02:31 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:02:31 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:02:31 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:02:31 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:02:31 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:02:31 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:02:48 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:02:48 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:02:49 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:02:49 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:02:49 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:02:49 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:02:50 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:02:50 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:02:50 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:02:50 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:02:50 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:02:50 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:02:51 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:02:51 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:02:51 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:02:51 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(35): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:03:18 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:03:18 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:03:19 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:03:19 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:03:20 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:03:20 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:03:20 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:03:20 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:05:49 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:05:49 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:05:51 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:05:51 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:06:26 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:06:26 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:06:42 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\SeriesController.php(28): Core\View::renderTemplate('series.episode', Array)
+#5 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(72): call_user_func_array(Array, Array)
+#7 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#8 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:06:55 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\HomeController.php(18): Core\View::renderTemplate('index')
+#5 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(76): App\Controllers\HomeController->index()
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('')
+#7 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:07:36 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\HomeController.php(18): Core\View::renderTemplate('index')
+#5 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(76): App\Controllers\HomeController->index()
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('')
+#7 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:07:36 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\HomeController.php(18): Core\View::renderTemplate('index')
+#5 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(76): App\Controllers\HomeController->index()
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('')
+#7 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:07:39 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\HomeController.php(18): Core\View::renderTemplate('index')
+#5 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(76): App\Controllers\HomeController->index()
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('')
+#7 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:07:40 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\HomeController.php(18): Core\View::renderTemplate('index')
+#5 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(76): App\Controllers\HomeController->index()
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('')
+#7 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:07:40 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\HomeController.php(18): Core\View::renderTemplate('index')
+#5 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(76): App\Controllers\HomeController->index()
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('')
+#7 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:07:40 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\HomeController.php(18): Core\View::renderTemplate('index')
+#5 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(76): App\Controllers\HomeController->index()
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('')
+#7 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:08:21 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\HomeController.php(18): Core\View::renderTemplate('index')
+#5 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(76): App\Controllers\HomeController->index()
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('')
+#7 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:08:30 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\HomeController.php(18): Core\View::renderTemplate('index')
+#5 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(76): App\Controllers\HomeController->index()
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('')
+#7 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:08:30 Europe/Berlin] PHP Fatal error:  Uncaught InvalidArgumentException: View [errors.500] not found. in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\FileViewFinder.php:137
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('errors.500', Array)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\Factory.php(128): Illuminate\View\FileViewFinder->find('errors.500')
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(34): Illuminate\View\Factory->make('errors.500', Array)
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.500')
+#4 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\FileViewFinder.php on line 137
+[10-Feb-2022 21:08:32 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\HomeController.php(18): Core\View::renderTemplate('index')
+#5 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(76): App\Controllers\HomeController->index()
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('')
+#7 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:08:32 Europe/Berlin] PHP Fatal error:  Uncaught InvalidArgumentException: View [errors.500] not found. in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\FileViewFinder.php:137
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('errors.500', Array)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\Factory.php(128): Illuminate\View\FileViewFinder->find('errors.500')
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(34): Illuminate\View\Factory->make('errors.500', Array)
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.500')
+#4 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\FileViewFinder.php on line 137
+[10-Feb-2022 21:08:47 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\HomeController.php(18): Core\View::renderTemplate('index')
+#5 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(76): App\Controllers\HomeController->index()
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('')
+#7 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:08:47 Europe/Berlin] PHP Fatal error:  Uncaught InvalidArgumentException: View [errors.500] not found. in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\FileViewFinder.php:137
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('errors.500', Array)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\Factory.php(128): Illuminate\View\FileViewFinder->find('errors.500')
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(34): Illuminate\View\Factory->make('errors.500', Array)
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.500')
+#4 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\FileViewFinder.php on line 137
+[10-Feb-2022 21:08:47 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\HomeController.php(18): Core\View::renderTemplate('index')
+#5 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(76): App\Controllers\HomeController->index()
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('')
+#7 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:08:47 Europe/Berlin] PHP Fatal error:  Uncaught InvalidArgumentException: View [errors.500] not found. in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\FileViewFinder.php:137
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('errors.500', Array)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\Factory.php(128): Illuminate\View\FileViewFinder->find('errors.500')
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(34): Illuminate\View\Factory->make('errors.500', Array)
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.500')
+#4 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\FileViewFinder.php on line 137
+[10-Feb-2022 21:08:48 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\HomeController.php(18): Core\View::renderTemplate('index')
+#5 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(76): App\Controllers\HomeController->index()
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('')
+#7 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:08:48 Europe/Berlin] PHP Fatal error:  Uncaught InvalidArgumentException: View [errors.500] not found. in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\FileViewFinder.php:137
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('errors.500', Array)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\Factory.php(128): Illuminate\View\FileViewFinder->find('errors.500')
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(34): Illuminate\View\Factory->make('errors.500', Array)
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.500')
+#4 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\FileViewFinder.php on line 137
+[10-Feb-2022 21:08:48 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\HomeController.php(18): Core\View::renderTemplate('index')
+#5 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(76): App\Controllers\HomeController->index()
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('')
+#7 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:08:48 Europe/Berlin] PHP Fatal error:  Uncaught InvalidArgumentException: View [errors.500] not found. in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\FileViewFinder.php:137
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('errors.500', Array)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\Factory.php(128): Illuminate\View\FileViewFinder->find('errors.500')
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(34): Illuminate\View\Factory->make('errors.500', Array)
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.500')
+#4 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#5 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\illuminate\view\FileViewFinder.php on line 137
+[10-Feb-2022 21:09:21 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\HomeController.php(18): Core\View::renderTemplate('index')
+#5 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(76): App\Controllers\HomeController->index()
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('')
+#7 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:11:12 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\HomeController.php(18): Core\View::renderTemplate('index')
+#5 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(76): App\Controllers\HomeController->index()
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('')
+#7 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:11:13 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\HomeController.php(18): Core\View::renderTemplate('index')
+#5 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(76): App\Controllers\HomeController->index()
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('')
+#7 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:12:11 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:12:11 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Required parameter $cachePath follows optional parameter $viewPaths in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php:45
+Stack trace:
+#0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Error.php(56): Core\View::renderTemplate('errors.404')
+#5 [internal function]: Core\Error::exceptionHandler(Object(RuntimeException))
+#6 {main}
+  thrown in C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php on line 45
+[10-Feb-2022 21:12:14 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\SeriesController.php(28): Core\View::renderTemplate('series.episode', Array)
+#5 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(72): call_user_func_array(Array, Array)
+#7 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#8 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:12:53 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(34): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\SeriesController.php(28): Core\View::renderTemplate('series.episode', Array)
+#5 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(72): call_user_func_array(Array, Array)
+#7 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#8 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:13:20 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\SeriesController.php(28): Core\View::renderTemplate('series.episode', Array)
+#5 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(72): call_user_func_array(Array, Array)
+#7 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#8 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:13:59 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\SeriesController.php(28): Core\View::renderTemplate('series.episode', Array)
+#5 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(72): call_user_func_array(Array, Array)
+#7 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#8 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:14:00 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\SeriesController.php(28): Core\View::renderTemplate('series.episode', Array)
+#5 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(72): call_user_func_array(Array, Array)
+#7 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#8 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:14:01 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\SeriesController.php(28): Core\View::renderTemplate('series.episode', Array)
+#5 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(72): call_user_func_array(Array, Array)
+#7 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#8 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:15:04 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\SeriesController.php(28): Core\View::renderTemplate('series.episode', Array)
+#5 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(72): call_user_func_array(Array, Array)
+#7 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#8 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:15:26 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\SeriesController.php(28): Core\View::renderTemplate('series.episode', Array)
+#5 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(72): call_user_func_array(Array, Array)
+#7 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#8 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:15:27 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\SeriesController.php(28): Core\View::renderTemplate('series.episode', Array)
+#5 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(72): call_user_func_array(Array, Array)
+#7 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#8 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:16:02 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\SeriesController.php(29): Core\View::renderTemplate('series.episode', Array)
+#5 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(72): call_user_func_array(Array, Array)
+#7 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#8 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:16:03 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\SeriesController.php(29): Core\View::renderTemplate('series.episode', Array)
+#5 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(72): call_user_func_array(Array, Array)
+#7 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#8 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 21:18:10 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 500</h5>
+<p>Uncaught exception: <strong>' ErrorException '</strong> </p>
+<p>Message : <strong>' Required parameter $cachePath follows optional parameter $viewPaths '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): Core\Error::errorHandler(8192, 'Required parame...', 'C:\\Users\\Mohamm...', 45)
+#1 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Mohamm...')
+#3 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\View.php(33): Composer\Autoload\ClassLoader->loadClass('Philo\\Blade\\Bla...')
+#4 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\App\Controllers\SeriesController.php(29): Core\View::renderTemplate('series.episode', Array)
+#5 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#6 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php(72): call_user_func_array(Array, Array)
+#7 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#8 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\vendor\philo\laravel-blade\src\Blade.php '</strong> on line 45</p>
+#################################################################################
+=================================================================================
+
+[10-Feb-2022 22:04:39 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('series/learning...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+

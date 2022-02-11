@@ -1,0 +1,60 @@
+[11-Feb-2022 11:45:03 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('favicon.ico')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[11-Feb-2022 11:45:42 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('careueyes/v1/ma...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[11-Feb-2022 11:45:47 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('careueyes/v1/an...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[11-Feb-2022 14:48:42 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('careueyes/v1/co...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
+[11-Feb-2022 14:48:43 Europe/Berlin] =================================================================================
+#################################################################################
+<h1>Fatal error</h1>
+<h5>Code : 404</h5>
+<p>Uncaught exception: <strong>' RuntimeException '</strong> </p>
+<p>Message : <strong>' no route matched '</strong></p>
+<p>Stack trace : <pre>' #0 C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\public\index.php(16): Core\Router->dispatch('careueyes/v1/up...')
+#1 {main} '</pre></p>
+<p>Throw in : <strong>' C:\Users\MohammadShM\Desktop\ProjectMe\phpMvc2\Core\Router.php '</strong> on line 86</p>
+#################################################################################
+=================================================================================
+
