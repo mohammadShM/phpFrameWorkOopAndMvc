@@ -1,5 +1,6 @@
 <?php
 
+// sample =======================================
 if (!function_exists('value')) {
     function value($value)
     {
