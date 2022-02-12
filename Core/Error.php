@@ -11,6 +11,7 @@ use ErrorException;
 class Error
 {
 
+    // public static bool $ERROR_LOG_BOOLEAN = $_ENV['SHOW_DEBUG'];
     public static bool $ERROR_LOG_BOOLEAN = Config::SHOW_DEBUG;
 
     /**

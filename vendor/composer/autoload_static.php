@@ -19,6 +19,7 @@ class ComposerStaticInite2e2b26668b109fd6f4fda89b0717e46
         'a1105708a18b76903365ca1c4aa61b02' => __DIR__ . '/..' . '/symfony/translation/Resources/functions.php',
         '72579e7bd17821bb1321b87411366eae' => __DIR__ . '/..' . '/illuminate/support/helpers.php',
         'ef65a1626449d89d0811cf9befce46f0' => __DIR__ . '/..' . '/illuminate/events/functions.php',
+        '4a1e11ad3362a41b16ee6dc6005d3441' => __DIR__ . '/../..' . '/Core/Helpers.php',
     );
 
     public static $prefixLengthsPsr4 = array (
